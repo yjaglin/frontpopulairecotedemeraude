@@ -200,5 +200,5 @@ in_menu: true
 </section>
 
 <section class="footer">
-    Candidature de la X circonscription de Y.
+    Candidature de la 7° circonscription de l'Ille et Vilaine
 </section> 
