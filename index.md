@@ -195,7 +195,7 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->Saint Père, 
-    <p>Que vous soyez électeur ou électrice à Saint Malo, Dinard, La Richardais, Le Minihic sur Rance, Pleurtuit, Dol de Bretagne, Saint Jouan des Guerets, Cancale, La Fresnais, Hirel, Saint Benoit des Ondes, Saint Coulomb, Saint Méloir des Ondes, Chateauneuf d'Ille et Vilaine, Lillemer, Miniac-Morvan, Plerguer, Saint Guinoux, Saint Père, Saint Suliac, Le Tronchet, La ville ès Nonais,  … chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Saint Malo, Dinard, La Richardais, Le Minihic sur Rance, Pleurtuit, Dol de Bretagne, Saint Jouan des Guerets, Cancale, La Fresnais, Hirel, Saint Benoit des Ondes, Saint Coulomb, Saint Méloir des Ondes, Chateauneuf d'Ille et Vilaine, Lillemer, Miniac-Morvan, Plerguer, Saint Guinoux, Saint Père, Saint Suliac, Le Tronchet, La ville ès Nonais, Saint Briac sur Mer, Saint Lunaire, Dol de Bretagne, Baguer Morvan, Baguer Pican, Cherueix, Epiniac, Mont Dol, Roz Landrieux, Le Vivier sur Mer, La Boussac, Broualan, Pleine Fougères, Roz sur Couenon, Sains, Saint Broladre, Saint Gorges de Gréhaigne, Saint Marcan, Sougeal, Trans la Forêt, Vieux Viel,   … chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 
