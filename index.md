@@ -9,7 +9,7 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Nicolas GUIVARC'H !</h1>
   </div>
 </header>
 
@@ -200,5 +200,5 @@ in_menu: true
 </section>
 
 <section class="footer">
-    Candidature de la 7° circonscription de l'Ille et Vilaine
+    Candidatures de la 7° circonscription de l'Ille et Vilaine
 </section> 
