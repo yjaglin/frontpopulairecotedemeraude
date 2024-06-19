@@ -15,7 +15,7 @@ in_menu: true
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Nicolas GUIVARC'H candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
 
     <div class="buttons">
       <div>
