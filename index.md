@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Front Populaire de la Côte d'Emeraude"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
@@ -77,7 +77,7 @@ order: 0
       </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>Nicolas GUIVARC'H</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
@@ -104,7 +104,7 @@ order: 0
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Camille TAP- suppléante</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
@@ -201,4 +201,4 @@ order: 0
 
 <section class="footer">
     Candidature de la X circonscription de Y.
-</section>
+</section> 
