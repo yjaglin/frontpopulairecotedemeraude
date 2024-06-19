@@ -1,5 +1,5 @@
 ---
-title: "Front Populaire de la Côte d'Emeraude"
+title: "Nouveau Front Populaire de la Côte d'Emeraude"
 order: 0
 in_menu: true
 ---
